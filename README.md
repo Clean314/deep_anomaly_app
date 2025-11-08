@@ -1,0 +1,1 @@
+Camera → Frame capture → YOLO / Pose model → 이상행동 판단 → 화면 표시 / 알림
